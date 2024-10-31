@@ -1,0 +1,5 @@
+---
+title: "CAS (Cardiac Allocation Score): Online-Manual zur Dateneingabe"
+---
+
+Auf dieser Seite finden Sie allgemeine Hinweise und Antworten zu häufig gestellten Fragen zur Dateneingabe im Projekt "CAS - Cardiac Allocation Score".

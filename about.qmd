@@ -1,0 +1,9 @@
+---
+title: "Impressum"
+---
+
+Erstellt von Georg Heinze und Leonie Lenz-Seraphin, Medizinische Universität Wien, [Institut für Klinische Biometrie](https://data-science.meduniwien.ac.at/kb)
+
+Bei speziellen Fragen können Sie sich gerne an die E-mail-Adresse [cas\@meduniwien.ac.at](mailto:cas@meduniwien.ac.at) wenden.
+
+Letze Änderungen: 31. 10. 2024.
